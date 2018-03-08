@@ -5,4 +5,5 @@
 ![](https://pic1.zhimg.com/80/v2-811dea8fc9901802e97df4fb7e9acf8f_hd.jpg)
 
 ReginCode: https://research.googleblog.com/2016/08/improving-inception-and-image.html
+
 Paper: https://arxiv.org/pdf/1512.00567v3.pdf
